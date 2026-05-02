@@ -7,7 +7,7 @@
 
 ---
 
-![Hermes AI agent open source self-improving platform by Nous Research](https://res.cloudinary.com/dojdzamvk/image/upload/v1746175200/hermes_agent_banner_ha.png "Hosting Hermes AI open source agent on Railway")
+![Hermes AI agent open source self-improving platform by Nous Research](https://res.cloudinary.com/dh2nt6hgh/image/upload/v1777723506/hermes-og-image_y56bdc.png "Hosting Hermes AI open source agent on Railway")
 
 # Deploy and Host self hosted Hermes Agent (Open-Source Hermes AI Platform) on Railway
 
@@ -39,7 +39,7 @@ Here are common use cases for the open-source Hermes AI agent platform:
 * Connecting to 200+ LLM models through OpenRouter, Nous Portal (Nous-Hermes models), NVIDIA NIM, OpenAI, or custom endpoints.
 * Running Hermes Agent on Android via Termux for a portable AI assistant, or deploying on Railway for always-on cloud access with a WebUI dashboard.
 
-![Hermes Agent WebUI dashboard and configuration](https://res.cloudinary.com/dojdzamvk/image/upload/v1746175200/hermes_agent_dashboard_ha.png "Hermes AI agent WebUI dashboard")
+![Hermes Agent WebUI dashboard and configuration](https://res.cloudinary.com/dh2nt6hgh/image/upload/v1777723508/hermes_agent_ai_settings_chatgpt_ifz5tf.png "Hermes AI agent WebUI dashboard")
 
 ## Dependencies for Hermes AI Docker hosted on Railway
 
